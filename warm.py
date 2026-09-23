@@ -1,6 +1,5 @@
-import tkinter as tk
 import random
-import time
+import tkinter as tk
 
 # 暖心话语列表 - 激励大学生和高三学生 
 messages = [
